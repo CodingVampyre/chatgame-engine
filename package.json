@@ -1,0 +1,16 @@
+{
+  "name": "chatgame-engine",
+  "version": "0.1.0",
+  "description": "engine to create fake chat games",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "game",
+    "chat",
+    "graph"
+  ],
+  "author": "Tobias Kavšek",
+  "license": "MIT"
+}
